@@ -1,5 +1,4 @@
 # homework-11-HTML-CSS-
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
 
